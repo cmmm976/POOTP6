@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShapeComposite()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ShapeComposite\n
+comment1.params=figure
+comment1.target=ShapeComposite(Figure)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ShapeComposite,\ which\ takes\ one\ figure\ as\ argument\ and\ add\ it\ into\ the\ arraylist\ figures\n
+comment2.params=figures
+comment2.target=ShapeComposite(java.util.ArrayList)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ ShapeComposite,\ which\ takes\ an\ array\ list\ of\ figures\ as\ argument\n
+comment3.params=figure
+comment3.target=void\ add(Figure)
+comment3.text=\n\ This\ method\ allows\ you\ to\ add\ figure\ Figures\ to\ your\ ShapeComposite\n\ \n\ @param\ \ figure,\ a\ figure\ Figure\n\ @return\ \ \ \ \ nothing\n
+comment4.params=
+comment4.target=double\ calculateSurface()
+comment4.text=\n\ *\ This\ method\ allows\ you\ to\ print\ the\ surface\ of\ your\ ShapeComposite\n\ \n\ @param\ \ none\n\ @return\ a\ beautiful\ double\ S\ \=\ sum\ for\ 0\ to\ figure.size()-1\ of\ figures.get(i).calculateSurface()\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ This\ method\ allows\ you\ to\ print\ the\ surface\ of\ all\ the\ figures\ of\ your\ ShapeComposite\ in\ your\ terminal\n\ \n\ @param\ \ none\n\ @return\ a\ beautiful\ string\ \n
+comment6.params=type
+comment6.target=java.util.ArrayList\ findAllFigures(java.lang.String)
+comment6.text=\n\ This\ method\ allows\ you\ to\ get\ all\ the\ figures\ of\ a\ given\ type\ as\ argument\n\ @param\ \ type,\ String\n\ @return\ a\ beatiful\ ArrayList\n
+comment7.params=
+comment7.target=void\ printInfoPerFigure()
+comment7.text=\n\ This\ method\ allows\ you\ to\ print\ the\ number\ of\ figures\ grouped\ by\ type,\ and\ their\ total\ surface\ in\ the\ terminal\n\ @param\ \ none\n\ @return\ nothing\n
+numComments=8

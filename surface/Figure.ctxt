@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ calculateSurface()
+comment0.text=\n\ This\ method\ allows\ your\ figures\ to\ have\ a\ calculateSurface()\ method,\ which\ will\ be\ useful.\n\ @param\ \ none\n\ @return\ \ a\ beatiful\ double\ S\ which\ will\ be\ defined\ in\ concrete\ classes\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ This\ method\ prints\ the\ surface\ of\ your\ figure\ on\ the\ terminal.\n\ \n\ @param\ none\n\ @return\ a\ beautiful\ String\n
+numComments=2

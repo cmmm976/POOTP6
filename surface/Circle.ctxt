@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=Circle(double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Cercle,\ which\ takes\ its\ radius\ as\ \ argument\n
+comment1.params=
+comment1.target=double\ calculateSurface()
+comment1.text=\n\ this\ method\ allows\ you\ to\ calculate\ the\ surface\ S\ of\ a\ circle\ (S\ \=\ 2pi*radius)\n\ @param\ none\n\ @return\ Pi*radius\u00B2\n
+numComments=2
